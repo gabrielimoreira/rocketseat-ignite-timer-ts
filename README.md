@@ -15,11 +15,11 @@
 
 Este projeto foi desenvolvido durante o módulo de **"Criando SPAs com ReactJS"** na formação da Rocketseat, implementando uma aplicação completa com roteamento e diversos conceitos importantes do ecossistema React como ContextAPI, useReducer, immer e muito mais.
 
-Trata-se de uma aplicação em que o usuário pode gerenciar seu tempo de forma produtiva utilizando a técnica **Pomodoro**. Essa técnica consiste em dividir o trabalho em blocos de tempo focado, geralmente com duração de 25 minutos, seguidos por pequenos intervalos de descanso. Após um certo número de ciclos, há um intervalo maior para recuperação.
+Trata-se de uma aplicação de gerenciamento de tempo utilizando a técnica **Pomodoro**. Essa técnica consiste em dividir o trabalho em blocos de tempo focado, geralmente com duração de 25 minutos, seguidos por pequenos intervalos de descanso. Após um certo número de ciclos, há um intervalo maior para recuperação.
 
 
 
-### 🎨 Protótipo:
+### 🎨 Protótipo
 
 O protótipo do projeto pode ser acessado em: 🔗 <a href="https://www.figma.com/design/eTN1aKVFxku3LXgB3NPkhG/Ignite-Timer?node-id=0-1&p=f&t=YmHogTtFwrtaMYN5-0" target="_blank">Figma</a>
 
